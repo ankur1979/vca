@@ -32,7 +32,7 @@ $output =  apply_filters( 'the_content', $page_data->post_content );
 	  <?php } ?>
         <!--/column -->
         <div class="col-sm-7">
-          <h3 class="section-title"><?php echo $pageTitle ?></h3>
+          <h3 class="section-title"><?php echo $pageTitle ?> in bronx</h3>
           <?php echo $output ?>
         </div>
         <!--/column -->
